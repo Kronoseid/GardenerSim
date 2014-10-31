@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\planterTypeA.cs">
+    <Files>
+      <File FileName="Assets\scripts\planterTypeA.cs" Line="24" Column="29" />
+      <File FileName="Assets\scripts\planterMovement.cs" Line="5" Column="1" />
+      <File FileName="Assets\scripts\plantedMovement.cs" Line="14" Column="66" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
